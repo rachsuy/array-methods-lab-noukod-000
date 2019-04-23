@@ -1,10 +1,10 @@
 array=["my", "name", "is" "the", "give", "name"]
 def using_include(array, element)
-array.sort(element)
+
 end
 
 def using_sort(array)
-
+  array.sort
 end
 
 def using_reverse(array)
